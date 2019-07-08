@@ -14,3 +14,17 @@
  *= require_tree .
  *= require_self
  */
+ $primary-color: red;
+
+
+ .pages1{
+   .container{
+     background-color: $primary-color;
+   }
+ }
+
+ .pages2{
+   .container{
+     background-color: grey;
+   }
+ }
